@@ -1,0 +1,41 @@
+# Kaizen Labs
+> Kaizen delivers a modular platform that helps local, state, and federal agencies serve constituents simply, securely, and at scale.
+
+## Pages
+
+- [AI](https://kaizenlabs.co/md/ai/): Your work is the foundation of thriving communities. AI is here to support—not disrupt—your efforts, streamlining tasks so you can focus on delivering the impactful services that matter most to residents.
+- [About Us](https://kaizenlabs.co/md/about/): Meet the team behind Kaizen Labs. Learn more about our mission, founders, investors, and values.
+- [About Us](https://kaizenlabs.co/md/about-us-old/): Meet the team behind Kaizen Labs. Learn more about our mission, founders, investors, and values.
+- [Book a Demo](https://kaizenlabs.co/md/book-a-demo/): Speak to Kaizen Labs’ sales team, see our products first-hand with a live demo, and get your most pressing questions answered — features, pricing, implementation, and more.
+- [Careers](https://kaizenlabs.co/md/careers/): Want to build the future of civic technology? Great, we want to hear from you.
+- [Citations](https://kaizenlabs.co/md/citations/): Issue, track, and resolve violations. Give residents a self-service portal to view citations, file appeals, and pay online.
+- [Contact](https://kaizenlabs.co/md/contact/): Whether you’re a city administrator or from the press/media, the Kaizen Labs team would be more than happy to help. Fill out a simple form for sales or customer support, and visit our social channels.
+- [DMV](https://kaizenlabs.co/md/dmv/): Transform your DMV into a digital-first agency that reduces wait times and improves citizen satisfaction.
+- [E-Billing & Tax Payments](https://kaizenlabs.co/md/e-billing-and-tax-payments/): Make it easy for residents and businesses to pay, and even easier for finance teams to reconcile, report, and maintain oversight.
+- [Customers Stories](https://kaizenlabs.co/md/customer-stories/): Read testimonials, customer stories, and in-depth case studies from our city, town, and local government customers. Kaizen Labs is proud to partner with cities across the US.
+- [Federal Government](https://kaizenlabs.co/md/federal-government/): Deliver secure, high-volume public programs with a modular platform built for the compliance requirements and operational complexity of federal government.
+- [Kaizen Labs | Digital experiences for residents](https://kaizenlabs.co/md/for-residents/): Kaizen Labs is proud to serve millions of residents in the US. Learn more about how we’re helping people and communities thrive through unique digital experiences.
+- [Not Found](https://kaizenlabs.co/md/four-oh-four/): Page not found
+- [Home](https://kaizenlabs.co/): Kaizen Labs helps city administrators transform resident experiences with simple digital products like websites, resident permitting, and recreation management.
+- [Judicial Courts](https://kaizenlabs.co/md/judicial-courts/): Provide a clear digital path for case lookup, filings, hearings, and fine resolution — with centralized tools for court staff.
+- [Local Government](https://kaizenlabs.co/md/local-government/): Replace disconnected systems with one platform for permits, recreation, payments, and essential services — built for the way municipal teams actually operate.
+- [Local Permits](https://kaizenlabs.co/md/local-permits/): From special events to parking permits, we streamline permitting so you can focus on delivering quality services to your residents.
+- [Local Recreation](https://kaizenlabs.co/md/local-recreation/): Reserve, Register, Purchase. One Beautiful Platform. From parks to recreation centers, we make it easy to explore, engage, and build lasting connections together.
+- [Maintenance Services - Version 1.0 (Effective July 20, 2025)](https://kaizenlabs.co/md/legal/exhibit-b-maintenance-services/)
+- [Parking Management](https://kaizenlabs.co/md/parking-management/): Bring order to your parking system. Manage permits, payments, enforcement, and access in one connected system.
+- [Payment Processing](https://kaizenlabs.co/md/payment-processing-schedule/)
+- [Permitting & Licensing](https://kaizenlabs.co/md/permitting-and-licensing/): Replace paper applications and manual reviews with a single platform for permits and licenses.
+- [Platform](https://kaizenlabs.co/md/platform/)
+- [Privacy Policy](https://kaizenlabs.co/md/privacy-policy/)
+- [Public Transportation](https://kaizenlabs.co/md/public-transportation/): Modernize fare collection, passes, and rider access with one connected platform built for public transit.
+- [Recreation](https://kaizenlabs.co/md/recreation/): One connected platform to manage facilities, reservations, programs, Point of Sale, and payments — built for the way recreation actually operates.ttc
+- [Security & Compliance](https://kaizenlabs.co/md/security-compliance/): Protecting your peace-of-mind; our number one priority is to keep your residents’ data safe.
+- [State Government](https://kaizenlabs.co/md/state-government/): Unify high-volume programs across agencies and regions on shared infrastructure built for the complexity of state government.
+- [State Permitting & Licenses](https://kaizenlabs.co/md/state-permitting-licenses/): From hunting and fishing permits to day-use and annual passes, we get you outdoors faster. Spend less time on logistics and more time enjoying the great outdoors.
+- [State Recreation](https://kaizenlabs.co/md/state-recreation/): With outdoor adventures to discover and spaces to connect, your visitors deserve an easy way to access state-managed recreation. We make it possible.
+- [Tolls](https://kaizenlabs.co/md/tolls/): Give drivers a simple way to pay, dispute, and manage tolls online. Give your team real-time visibility into transactions, violations, and revenue.
+- [Working with Kaizen](https://kaizenlabs.co/md/working-with-kaizen/): Working with Kaizen Labs is all about collaboration. Learn more about how we work, our pricing, and approach to deployment and continuous improvements (at no cost to you).
+
+## Discovery
+- Sitemap: https://kaizenlabs.co/sitemap.xml
+- Markdown pages follow the pattern: https://kaizenlabs.co/md/{slug}/

@@ -1,22 +1,94 @@
 aid: kaizen-labs
 name: Kaizen Labs
-description: Kaizen Labs is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Kaizen Labs is a New York City based govtech company founded in 2022 that
+  builds modern, AI-native software for America's essential public services. Its
+  modular SaaS platform helps local, state, and federal agencies replace legacy
+  systems and deliver resident-facing digital services across recreation and
+  facility reservations, permitting and licensing, DMV and licensing workflows,
+  parking management, tolls, public transportation fare collection, e-billing
+  and tax payments, citations, and judicial court services. The platform is a
+  single, hyper-configurable framework reported to reach more than 40 million
+  residents across 50+ agencies in 17 states. Kaizen Labs is backed by NEA,
+  Andreessen Horowitz (a16z), Accel, 776, and Carpenter Capital. This profile
+  was surfaced as an a16z portfolio company and enriched by the API Evangelist
+  pipeline; Kaizen Labs delivers bespoke integrations to public-sector customers
+  and does not publish a public developer API program at this time.
 url: https://raw.githubusercontent.com/api-evangelist/kaizen-labs/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.kaizenlabs.co/favicon.ico
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - a16z
+- NEA
+- Accel
+- '776'
+- Carpenter Capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-industry: govtech
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- GovTech
+- Public Sector
+- Government
+- Civic Technology
+- Public Services
+- Permitting
+- Licensing
+- Recreation
+- Payments
 apis: []
+common:
+- type: DomainSecurity
+  url: security/kaizen-labs-domain-security.yml
+- type: Website
+  url: https://www.kaizenlabs.co/
+- type: About
+  url: https://www.kaizenlabs.co/about/
+- type: Careers
+  url: https://www.kaizenlabs.co/careers/
+- type: CustomerStories
+  url: https://www.kaizenlabs.co/customer-stories/
+- type: Pricing
+  url: https://www.kaizenlabs.co/working-with-kaizen/
+- type: SignUp
+  url: https://www.kaizenlabs.co/book-a-demo/
+- type: Support
+  url: https://www.kaizenlabs.co/contact/
+- type: PrivacyPolicy
+  url: https://www.kaizenlabs.co/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/the-kaizen-labs
+- type: Twitter
+  url: https://x.com/thekaizenlabs
+- type: LLMsTxt
+  url: llms/kaizen-labs-llms.txt
+- type: TrustCenter
+  url: security/kaizen-labs-trust-center.yml
+- type: Compliance
+  url: security/kaizen-labs-trust-center.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

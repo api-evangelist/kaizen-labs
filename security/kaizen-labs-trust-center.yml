@@ -1,0 +1,22 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.kaizenlabs.co/security-compliance/
+url: https://www.kaizenlabs.co/security-compliance/
+certifications:
+- SOC 2 Type II
+- HIPAA
+controls:
+- Data encrypted in transit and at rest
+- Role-based access controls and full audit trails
+- Continuous threat monitoring and regular penetration testing
+evidence:
+- source: https://www.kaizenlabs.co/security-compliance/
+  keywords:
+  - soc 2 type ii audited
+  - hipaa compliant
+  - encrypted in transit and at rest
+  - penetration testing
+notes: >-
+  Kaizen Labs publishes a public Security & Compliance page (not a self-service
+  trust portal) naming SOC 2 Type II and HIPAA compliance. No self-service
+  document access portal, bug bounty, or security.txt was found at probe time.
