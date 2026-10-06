@@ -51,7 +51,7 @@ x-tier-reason: portfolio-lead
 x-industry: govtech
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-10-06'
 tags:
 - Company
 - GovTech
@@ -65,6 +65,8 @@ tags:
 - Payments
 apis: []
 common:
+- url: https://www.kaizenlabs.co/press/
+  type: Blog
 - type: Security
   url: https://www.kaizenlabs.co/security-compliance/
 - type: DomainSecurity
